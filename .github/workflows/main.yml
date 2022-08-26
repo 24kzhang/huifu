@@ -5,12 +5,6 @@ name: 微信推送
 # Controls when the workflow will run
 on:
   push:
-
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-
-  workflow_dispatch:
   schedule:
     - cron: '0 23 * * *'
 
