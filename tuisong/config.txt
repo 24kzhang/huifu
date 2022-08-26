@@ -3,7 +3,7 @@
 "app_id": "wxee91f35e5e7384ac",
 "app_secret": "38e4a8975aff357b9b7a7ae2f8aecb14",
 "template_id": "y0LwXOuhuX0GHqCkDQuOzGabSisZDqBJR3YhNnuQ2sU",
-"user": ["oBVva6VT4-YSlFBfjKNfiNmbRkVg"],
+"user": ["oBVva6VT4-YSlFBfjKNfiNmbRkVg","oBVva6T8cMZbRX4-EVnFShJDRmmk"],
 
 
 # 所在省份
