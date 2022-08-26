@@ -23,9 +23,6 @@ jobs:
         with:
           python-version: 3.7
         
-      - name: requestss
-        run:
-         pip3 install requests
         
       - name: Update paper list
         run: |
