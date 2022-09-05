@@ -6,7 +6,7 @@ name: 微信推送
 on:
   push:
   schedule:
-    - cron: '1 0 * * *'
+    - cron: '2 0 * * *'
 
 jobs:
   build:
